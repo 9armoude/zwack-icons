@@ -35,9 +35,9 @@ unicode: "ecde"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
-     inkscape:zoom="14.760854"
-     inkscape:cx="10.060393"
-     inkscape:cy="11.618569"
+     inkscape:zoom="10.4375"
+     inkscape:cx="20.886228"
+     inkscape:cy="9.0538922"
      inkscape:window-width="1366"
      inkscape:window-height="705"
      inkscape:window-x="-8"
@@ -45,11 +45,7 @@ unicode: "ecde"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2" />
   <path
-     d="M19 8.71l-5.333 -4.148a2.666 2.666 0 0 0 -3.274 0l-5.334 4.148a2.665 2.665 0 0 0 -1.029 2.105v7.2a2 2 0 0 0 2 2h12a2 2 0 0 0 2 -2v-7.2c0 -.823 -.38 -1.6 -1.03 -2.105"
-     id="path1"
-     style="stroke-width:1;stroke-dasharray:none;fill:none;stroke:#000000" />
-  <path
-     d="M16 15c-2.21 1.333 -5.792 1.333 -8 0"
-     id="path2"
-     style="stroke-width:1;stroke-dasharray:none;stroke:#000000;fill:none" />
+     id="path12"
+     style="baseline-shift:baseline;display:inline;overflow:visible;vector-effect:none;fill:#000000;stroke:none;stroke-linecap:butt;stroke-linejoin:miter;enable-background:accumulate;stop-color:#000000;stop-opacity:1"
+     d="M 12.029297 3.5019531 C 11.342635 3.5019531 10.656625 3.7239969 10.085938 4.1679688 L 4.7519531 8.3144531 C 3.9807965 8.9141522 3.5288357 9.8375598 3.5292969 10.814453 L 3.5292969 18.015625 C 3.5292969 19.390415 4.6545073 20.515625 6.0292969 20.515625 L 18.029297 20.515625 C 19.404086 20.515625 20.529297 19.390415 20.529297 18.015625 L 20.529297 10.814453 C 20.529297 9.837545 20.078303 8.9139755 19.306641 8.3144531 L 13.974609 4.1679688 C 13.40392 3.7239969 12.715959 3.5019531 12.029297 3.5019531 z M 8.0097656 14.5 A 0.5 0.5 0 0 1 8.2578125 14.572266 C 10.260984 15.781608 13.736794 15.781854 15.742188 14.572266 A 0.5 0.5 0 0 1 16.121094 14.513672 A 0.5 0.5 0 0 1 16.427734 14.742188 A 0.5 0.5 0 0 1 16.257812 15.427734 C 13.843207 16.884146 10.155016 16.884392 7.7421875 15.427734 A 0.5 0.5 0 0 1 7.5722656 14.742188 A 0.5 0.5 0 0 1 8.0097656 14.5 z " />
 </svg>
