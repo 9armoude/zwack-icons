@@ -1,7 +1,7 @@
 | Icon | outline | filled | broken |
 |---|---|---|---|
-| a-b | ✓ | ✗ | ✗ |
-| a-b-2 | ✓ | ✗ | ✗ |
+| a-b | ✓ | ✗ | ✓ |
+| a-b-2 | ✓ | ✗ | ✓ |
 | a-b-off | ✓ | ✗ | ✗ |
 | abacus | ✓ | ✗ | ✗ |
 | abacus-off | ✓ | ✗ | ✗ |
