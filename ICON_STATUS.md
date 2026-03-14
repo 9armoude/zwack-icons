@@ -4678,7 +4678,7 @@
 | tool | ✓ | ✗ | ✗ |
 | tools | ✓ | ✗ | ✗ |
 | tools-kitchen | ✓ | ✗ | ✗ |
-| tools-kitchen-2 | ✓ | ✓ | ✗ |
+| tools-kitchen-2 | ✓ | ✓ | ✓ |
 | tools-kitchen-2-off | ✓ | ✗ | ✗ |
 | tools-kitchen-3 | ✓ | ✗ | ✗ |
 | tools-kitchen-off | ✓ | ✗ | ✗ |
