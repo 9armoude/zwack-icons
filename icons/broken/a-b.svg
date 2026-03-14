@@ -34,9 +34,9 @@ unicode: "ec36"
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="14.81978"
-     inkscape:cx="14.575116"
-     inkscape:cy="7.9960703"
+     inkscape:zoom="10.479167"
+     inkscape:cx="8.6838966"
+     inkscape:cy="4.9145129"
      inkscape:window-width="1366"
      inkscape:window-height="705"
      inkscape:window-x="-8"
@@ -44,15 +44,39 @@ unicode: "ec36"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg3" />
   <path
-     d="M3 16v-5.5a2.5 2.5 0 0 1 5 0v5.5m0 -4h-5"
      id="path1"
-     style="stroke-width:1;stroke-dasharray:none" />
+     style="stroke-width:1;stroke-dasharray:none;fill:none"
+     d="M 8 12 L 3 12 " />
   <path
-     d="M12 6l0 12"
+     id="path14"
+     style="stroke-width:1;stroke-dasharray:none;fill:none"
+     d="M 7.9427257 9.9679368 A 2.5 2.5 0 0 1 8 10.5 L 8 16 " />
+  <path
+     id="path13"
+     style="stroke-width:1;stroke-dasharray:none;fill:none"
+     d="M 7.9423276 9.9661123 A 2.5 2.5 0 0 1 7.9427257 9.9679368 " />
+  <path
+     id="path11"
+     style="stroke-width:1;stroke-dasharray:none;fill:none"
+     d="M 3 16 L 3 10.5 A 2.5 2.5 0 0 1 6.7605524 8.3410633 " />
+  <path
      id="path2"
-     style="stroke-width:1;stroke-dasharray:none" />
+     style="stroke-width:1;stroke-dasharray:none;fill:none"
+     d="M 12 13.925781 L 12 18 " />
   <path
-     d="M16 16v-8h3a2 2 0 0 1 0 4h-3m3 0a2 2 0 0 1 0 4h-3"
+     id="path17"
+     style="stroke-width:1;stroke-dasharray:none;fill:none"
+     d="M 12 6 L 12 11.925781 " />
+  <path
      id="path3"
-     style="stroke-width:1;stroke-dasharray:none" />
+     style="stroke-width:1;stroke-dasharray:none;fill:none"
+     d="M 20.623729 15.167692 A 2 2 0 0 1 19 16 L 16 16 " />
+  <path
+     id="path16"
+     style="stroke-width:1;stroke-dasharray:none;fill:none"
+     d="M 19 12 A 2 2 0 0 1 20.818588 13.167692 " />
+  <path
+     id="path15"
+     style="stroke-width:1;stroke-dasharray:none;fill:none"
+     d="M 16 16 L 16 8 L 19 8 A 2 2 0 0 1 19 12 L 16 12 " />
 </svg>

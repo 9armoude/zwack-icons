@@ -44,21 +44,37 @@ unicode: "f25f"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg5" />
   <path
-     d="M16 21h3c.81 0 1.48 -.67 1.48 -1.48l.02 -.02c0 -.82 -.69 -1.5 -1.5 -1.5h-3v3"
      id="path1"
-     style="stroke-width:1;stroke-dasharray:none" />
+     style="stroke-width:1;stroke-dasharray:none;fill:none"
+     d="M 20.236858 18.661968 C 19.963268 18.264264 19.504951 18 19 18 L 16 18 L 16 21 L 19 21 C 19.353085 21 19.679568 20.87269 19.93555 20.661968 " />
   <path
      d="M16 15h2.5c.84 -.01 1.5 .66 1.5 1.5s-.66 1.5 -1.5 1.5h-2.5v-3"
      id="path2"
      style="stroke-width:1;stroke-dasharray:none" />
   <path
-     d="M4 9v-4c0 -1.036 .895 -2 2 -2s2 .964 2 2v4"
      id="path3"
-     style="stroke-width:1;stroke-dasharray:none" />
+     style="stroke-width:1;stroke-dasharray:none;fill:none"
+     d="M 8 5.9179688 L 8 9 " />
   <path
-     d="M2.99 11.98a9 9 0 0 0 9 9m9 -9a9 9 0 0 0 -9 -9"
+     id="path18"
+     style="stroke-width:1;stroke-dasharray:none;fill:none"
+     d="M 4 9 L 4 5 C 4 3.964 4.895 3 6 3 C 6.6934233 3 7.3041493 3.3796203 7.6629005 3.9184294 " />
+  <path
      id="path4"
-     style="stroke-width:1;stroke-dasharray:none" />
+     style="stroke-width:1;stroke-dasharray:none;fill:none"
+     d="M 19.298012 6.7271001 A 9 9 0 0 0 11.99 2.98 " />
+  <path
+     id="path15"
+     style="stroke-width:1;stroke-dasharray:none;fill:none"
+     d="M 20.99 11.98 A 9 9 0 0 0 20.409931 8.8012018 " />
+  <path
+     id="path14"
+     style="stroke-width:1;stroke-dasharray:none;fill:none"
+     d="M 4.5369739 17.025037 A 9 9 0 0 0 11.99 20.98 " />
+  <path
+     id="path17"
+     style="stroke-width:1;stroke-dasharray:none;fill:none"
+     d="M 2.99 11.98 A 9 9 0 0 0 3.4685357 14.875625 " />
   <path
      d="M8 7h-4"
      id="path5"
