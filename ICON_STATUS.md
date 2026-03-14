@@ -4288,7 +4288,7 @@
 | sleigh | ✓ | ✗ | ✗ |
 | slice | ✓ | ✗ | ✗ |
 | slideshow | ✓ | ✗ | ✗ |
-| smart-home | ✓ | ✓ | ✗ |
+| smart-home | ✓ | ✓ | ✓ |
 | smart-home-off | ✓ | ✗ | ✗ |
 | smoking | ✓ | ✗ | ✗ |
 | smoking-no | ✓ | ✗ | ✗ |
